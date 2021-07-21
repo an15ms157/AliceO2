@@ -1,0 +1,28 @@
+var classo2_1_1psr_1_1Detector =
+[
+    [ "Detector", "d7/d83/classo2_1_1psr_1_1Detector.html#a5cfdc91b5ccb396177b5463ebb23676c", null ],
+    [ "Detector", "d7/d83/classo2_1_1psr_1_1Detector.html#aa43b3d7bbd4b225855b4bcc93f70b225", null ],
+    [ "~Detector", "d7/d83/classo2_1_1psr_1_1Detector.html#a2405fdd7fef79a727a5f48982ffb146b", null ],
+    [ "addHit", "d7/d83/classo2_1_1psr_1_1Detector.html#a6fd16ccc0026dc894d26fd791037288f", null ],
+    [ "BeginPrimary", "d7/d83/classo2_1_1psr_1_1Detector.html#adf7d29afda71fd5acc0dfa009ed97902", null ],
+    [ "buildBasicPSR", "d7/d83/classo2_1_1psr_1_1Detector.html#a08814a12b8ba6e72d44c657c4286243f", null ],
+    [ "buildPSRV1", "d7/d83/classo2_1_1psr_1_1Detector.html#a9b1699b688528b3633e4dedb1e6a04bf", null ],
+    [ "chipVolUID", "d7/d83/classo2_1_1psr_1_1Detector.html#a23e3c30ed444a2ff2edc50540988cd77", null ],
+    [ "ConstructGeometry", "d7/d83/classo2_1_1psr_1_1Detector.html#a929268618a46c57137741a179fc3113d", null ],
+    [ "EndOfEvent", "d7/d83/classo2_1_1psr_1_1Detector.html#a5c5e68924b39b77a349bf01a746c52ff", null ],
+    [ "FinishPrimary", "d7/d83/classo2_1_1psr_1_1Detector.html#a0bef8d3ab0cdca4efd0b710547ca1b95", null ],
+    [ "finishRun", "d7/d83/classo2_1_1psr_1_1Detector.html#a883ce96f0079086aa8100f8e4a6b93fb", null ],
+    [ "getHits", "d7/d83/classo2_1_1psr_1_1Detector.html#a090e510cf306a006a86983da2cf8b70a", null ],
+    [ "getNumberOfLayers", "d7/d83/classo2_1_1psr_1_1Detector.html#abb0c777c455f551c306dbe8a16a30a71", null ],
+    [ "InitializeO2Detector", "d7/d83/classo2_1_1psr_1_1Detector.html#a32f80be92fd7f6724bb794710469b7c3", null ],
+    [ "PostTrack", "d7/d83/classo2_1_1psr_1_1Detector.html#a8c57b17ebc2456b67e5ff1e4ea4e8931", null ],
+    [ "PreTrack", "d7/d83/classo2_1_1psr_1_1Detector.html#a8bf6b94217f389e05a8c52345c865c03", null ],
+    [ "ProcessHits", "d7/d83/classo2_1_1psr_1_1Detector.html#a87e740262465bb22ef2ab7d35fc949b3", null ],
+    [ "Register", "d7/d83/classo2_1_1psr_1_1Detector.html#a7a20c3effc84d8ab7b9018168690348c", null ],
+    [ "Reset", "d7/d83/classo2_1_1psr_1_1Detector.html#ae86027d7c12ea8c14358604708bd2a1e", null ],
+    [ "o2::base::DetImpl", "d7/d83/classo2_1_1psr_1_1Detector.html#aeda61a10c7ef352656f6584cb230d97a", null ],
+    [ "mGeometryTGeo", "d7/d83/classo2_1_1psr_1_1Detector.html#a2639a7a778bd0059ef484770c6d8e147", null ],
+    [ "mLayerID", "d7/d83/classo2_1_1psr_1_1Detector.html#a665e64bb7fec84442575baa89e83eeab", null ],
+    [ "mLayerName", "d7/d83/classo2_1_1psr_1_1Detector.html#a8671cd54912d8fae2d8adbb6fb0ba3b1", null ],
+    [ "mNumberOfLayers", "d7/d83/classo2_1_1psr_1_1Detector.html#a80062328a9997a4fae0903a739b110fc", null ]
+];
